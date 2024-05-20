@@ -3,6 +3,6 @@
 - 📫 Contate-me no email: weslleycaetanosoares@gmail.com
 <div>
     <a href="https://github.com/wescaetano?tab=repositories">
-    <img height="100em"  src="https://github-readme-stats.vercel.app/api?username=wescaetano&theme=gotham&show_icons=true">
-    <img  height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wescaetano&theme=gotham&show_icons=true">
+    <img height="170em"  src="https://github-readme-stats.vercel.app/api?username=wescaetano&theme=gotham&show_icons=true">
+    <img  height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wescaetano&theme=gotham&show_icons=true">
 </div>
