@@ -15,13 +15,7 @@
   <img align="center" alt="Wes-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Wes-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
   <img align="center" alt="Wes-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
-
-  ###
-
-<img align="right" height="150" src="https://telegra.ph/file/fe100923d540a607d6999.gif" />
-
-###
-          
+  <img align="right" height="150" src="https://telegra.ph/file/fe100923d540a607d6999.gif" />      
 </div>
 
 
