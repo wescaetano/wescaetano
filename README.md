@@ -2,8 +2,8 @@ I'm Weslley Caetano, a Brazilian 🇧🇷 who is passionate about solving proble
 
 I'm currently studying Systems Analysis and Development, which has provided me the opportunity to enhance my programming skills. Recently, I've been focusing on Java and aim to build secure and robust systems with it.
 
-🌱 Currently learning Java and C
-📫 You can reach me at: weslleycaetanosoares@gmail.com
+- 🌱 Currently learning Java and C <br>
+- 📫 You can reach me at: weslleycaetanosoares@gmail.com
 <div>
     <a href="https://github.com/wescaetano?tab=repositories">
     <img height="170em"  src="https://github-readme-stats.vercel.app/api?username=wescaetano&theme=gotham&show_icons=true">
