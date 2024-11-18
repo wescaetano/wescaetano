@@ -1,6 +1,6 @@
 # <samp>Weslley Caetano</samp> ☕
 
-[![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&color=071A2C&link=https://www.instagram.com/mupezzuol)](https://www.instagram.com/_weszx)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&color=071A2C&link=https://www.instagram.com/mupezzuol)](https://www.instagram.com/_weslleycaetano)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%23E4405F.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C&link=https://www.linkedin.com/in/mupezzuol/)](https://www.linkedin.com/in/weslleycsoares/)
 
 I'm Weslley Caetano, a Brazilian 🇧🇷 who is passionate about solving problems and creating innovative solutions through technology. In my free time, I enjoy playing soccer with friends and spending quality time with my family to unwind.
