@@ -12,12 +12,15 @@
 - 🌱 Currently learning Java and C <br>
 - 📫 You can reach me at: weslleycaetanosoares@gmail.com
 </samp>
+<hr style="border: 1px solid #ccc;">
+
 
 <div>
     <a href="https://github.com/wescaetano?tab=repositories">
     <img height="170em"  src="https://github-readme-stats.vercel.app/api?username=wescaetano&theme=gotham&show_icons=true">
     <img  height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wescaetano&theme=gotham&show_icons=true">
 </div>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Wes-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
