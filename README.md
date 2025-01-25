@@ -3,12 +3,16 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&color=071A2C&link=https://www.instagram.com/mupezzuol)](https://www.instagram.com/_weslleycaetano)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%23E4405F.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C&link=https://www.linkedin.com/in/mupezzuol/)](https://www.linkedin.com/in/weslleycsoares/)
 
-I'm Weslley Caetano, a Brazilian 🇧🇷 who is passionate about solving problems and creating innovative solutions through technology. In my free time, I enjoy playing soccer with friends and spending quality time with my family to unwind.
+<samp>I'm Weslley Caetano, a Brazilian 🇧🇷 who is passionate about solving problems and creating innovative solutions through technology. In my free time, I enjoy playing soccer with friends and spending quality time with my family to unwind.
 
-I'm currently studying Systems Analysis and Development, which has provided me the opportunity to enhance my programming skills. Recently, I've been focusing on Java and aim to build secure and robust systems with it.
+<samp>I'm currently studying Systems Analysis and Development, which has provided me the opportunity to enhance my programming skills. Recently, I've been focusing on Java and aim to build secure and robust systems with it.
+</samp>
 
+<samp>
 - 🌱 Currently learning Java and C <br>
 - 📫 You can reach me at: weslleycaetanosoares@gmail.com
+</samp>
+
 <div>
     <a href="https://github.com/wescaetano?tab=repositories">
     <img height="170em"  src="https://github-readme-stats.vercel.app/api?username=wescaetano&theme=gotham&show_icons=true">
