@@ -9,7 +9,6 @@
 </samp>
 
 <samp>
-- 🌱 Currently learning Java <br>
 - ✉️ You can reach me at: weslleycaetanosoares@gmail.com
 </samp>
 
