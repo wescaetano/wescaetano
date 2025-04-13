@@ -23,19 +23,19 @@
 </div>
 
 
-<div style="display: inline_block">
-  <h2><samp>Languages and Tools <samp></h2>
-  <img align="center" alt="Js" title="Javascript" height="30" width="40" style="margin-bottom: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" title="HTML" height="30" width="40" style="margin-bottom: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" title="CSS" height="30" width="40" style="margin-bottom: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Figma" title="Figma" height="30" width="40" style="margin-bottom: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
-  <img align="center" alt="Bootstrap" title="Bootstrap" height="30" width="40" style="margin-bottom: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="C" title="C" height="30" width="40" style="margin-bottom: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
-  <img align="center" alt="C++" title="C++" height="30" width="40" style="margin-bottom: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">  
-  <img align="center" alt="Java" title="Java" height="30" width="40" style="margin-bottom: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img align="center" alt="Spring" title="Spring" height="30" width="40" style="margin-bottom: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
-  <img align="center" alt="Postgres" title="Postgres" height="30" width="40" style="margin-bottom: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-  <img align="center" alt="MySQL" title="MySQL" height="30" width="40" style="margin-bottom: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+<div align="left">
+  <h2><samp>Languages and Tools</samp></h2>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="Js" title="JavaScript" width="40" height="30" style="display: inline-block; margin-bottom: 5px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" title="HTML" width="40" height="30" style="display: inline-block; margin-bottom: 5px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" title="CSS" width="40" height="30" style="display: inline-block; margin-bottom: 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma" title="Figma" width="40" height="30" style="display: inline-block; margin-bottom: 5px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" title="Bootstrap" width="40" height="30" style="display: inline-block; margin-bottom: 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" title="C" width="40" height="30" style="display: inline-block; margin-bottom: 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" width="40" height="30" style="display: inline-block; margin-bottom: 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" title="Java" width="40" height="30" style="display: inline-block; margin-bottom: 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring" title="Spring" width="40" height="30" style="display: inline-block; margin-bottom: 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="Postgres" title="PostgreSQL" width="40" height="30" style="display: inline-block; margin-bottom: 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="40" height="30" style="display: inline-block; margin-bottom: 5px;" />
 </div>
 
                                                                  
