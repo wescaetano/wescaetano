@@ -9,7 +9,9 @@
 </samp>
 
 <samp>
-- ✉️ You can reach me at: weslleycaetanosoares@gmail.com
+- 🤝 If you have any suggestions, questions, or insights to share, feel free to reach me out!<br>
+- ✉️ You can reach me at: weslleycaetanosoares@gmail.com 
+  
 </samp>
 
 
