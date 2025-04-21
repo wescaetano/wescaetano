@@ -3,7 +3,7 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&color=071A2C&link=https://www.instagram.com/mupezzuol)](https://www.instagram.com/_weslleycaetano)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%23E4405F.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C&link=https://www.linkedin.com/in/mupezzuol/)](https://www.linkedin.com/in/weslleycsoares/)
 
-<samp> I'm Weslley Caetano, a Brazilian 🇧🇷 who's passionate about solving problems and building creative solutions through technology. In my free time, I like diving into JRPGs like Final Fantasy, Chrono Trigger and Fear and Hunger. I also enjoy playing soccer with my friends and spending time with my family to relax and recharge.
+<samp> I'm Weslley Caetano, a Brazilian 🇧🇷 who's passionate about solving problems and building creative solutions through technology. In my free time, I like diving into JRPGs like Final Fantasy and Chrono Trigger. I also enjoy playing soccer with my friends and spending time with my family to relax and recharge.
 
 <samp>I'm currently studying Systems Analysis and Development, which has provided me the opportunity to enhance my programming skills. Recently, I've been focusing on Spring Boot in Java and aim to build secure and robust systems with it.
 </samp>
