@@ -8,11 +8,14 @@
 <samp>I'm currently studying Systems Analysis and Development, which has provided me the opportunity to enhance my programming skills. Recently, I've been focusing on Spring Boot in Java and aim to build secure and robust systems with it.
 </samp>
 
-<samp>
-- 🤝 If you have any suggestions, questions, or insights to share, feel free to reach me out!<br>
-- ✉️ You can reach me at: weslleycaetanosoares@gmail.com 
+
+- 🤝 &nbsp;<samp>If you have any suggestions, questions, or insights to share, feel free to reach me out!</samp>
+- 📄 &nbsp;<samp>Take a look at my [resume](https://github.com/wescaetano/wescaetano/blob/main/resume-weslley.pdf) if you prefer the Portuguese version [resume-pt-br](https://github.com/wescaetano/wescaetano/blob/main/cv-weslley.pdf)</samp>
+- ✉️ &nbsp;<samp>You can reach me at: weslleycaetanosoares@gmail.com</samp>
+
+
   
-</samp>
+
 
 
 
