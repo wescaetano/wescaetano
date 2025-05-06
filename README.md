@@ -10,7 +10,7 @@
 
 
 - 🤝 &nbsp;<samp>If you have any suggestions, questions, or insights to share, feel free to reach me out!</samp>
-- 📄 &nbsp;<samp>Take a look at my [resume](https://docs.google.com/viewer?url=https://github.com/wescaetano/wescaetano/raw/main/resume-weslley.pdf) if you prefer the Portuguese version [resume-pt-br](https://docs.google.com/viewer?url=https://github.com/wescaetano/wescaetano/raw/main/cv-weslley.pdf)</samp>
+- 📄 &nbsp;<samp>Take a look at my [resume](https://wescaetano.github.io/my-portfolio/assets/cv-weslley-en.pdf) if you prefer the Portuguese version [resume-pt-br](https://wescaetano.github.io/my-portfolio/assets/cv-weslley-pt.pdf)</samp>
 - ✉️ &nbsp;<samp>You can reach me at: weslleycaetanosoares@gmail.com</samp>
 
 
