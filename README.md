@@ -5,7 +5,7 @@
 
 <samp> I'm Weslley Caetano, a Brazilian 🇧🇷 who's passionate about solving problems and building creative solutions through technology. In my free time, I like diving into JRPGs like Final Fantasy and Chrono Trigger. I also enjoy playing soccer with my friends and spending time with my family to relax and recharge.
 
-<samp>I'm currently studying Systems Analysis and Development, which has provided me the opportunity to enhance my programming skills. Recently, I've been focusing on .Net in C# and aim to build secure and robust systems with it.
+<samp>I'm currently studying Systems Analysis and Development, a journey that's been instrumental in sharpening my programming skills. Lately, my attention has been keenly focused on the world of backend development, where I've been diving deep into the .NET ecosystem with C#. I'm particularly passionate about mastering crucial concepts like Clean Architecture, the SOLID principles, and building robust RESTful APIs. It's a field that captivates me with its logic and the ability to construct the backbone of complex applications.
 </samp>
 
 
