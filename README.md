@@ -12,7 +12,7 @@
 - 🤝 &nbsp;<samp>If you have any suggestions, questions, or insights to share, feel free to reach me out!</samp>
 - 📄 &nbsp;<samp>Take a look at my [resume](https://wescaetano.github.io/my-portfolio/assets/cv-weslley-en.pdf). If you prefer, checkout the Portuguese version [here](https://wescaetano.github.io/my-portfolio/assets/cv-weslley-pt.pdf)</samp>
 - ✉️ &nbsp;<samp>You can reach me at: weslleycaetanosoares@gmail.com</samp>
-- 🎓 &nbsp;<samp>My academic life [here](https://github.com/wescaetano/academic-life)</samp>
+- 🎓 &nbsp;<samp>Know a little more about my academic life [here](https://github.com/wescaetano/academic-life)</samp>
 
 
 <div>
