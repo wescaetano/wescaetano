@@ -16,8 +16,8 @@
 <div>
   <h2><samp>Stats</samp></h2>
   <div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <img width="400" height="170" src="https://github-readme-stats.vercel.app/api?username=wescaetano&theme=gotham&show_icons=true" />
-    <img width="302" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wescaetano&theme=gotham&layout=compact" />
+    <img width="350" height="168" src="https://github-readme-stats.vercel.app/api?username=wescaetano&theme=gotham&show_icons=true" />
+    <img width="264" height="178" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wescaetano&theme=gotham&layout=compact" />
   </div>
 </div>
 
