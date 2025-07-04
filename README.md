@@ -13,21 +13,14 @@
 - 📄 &nbsp;<samp>Take a look at my [resume](https://wescaetano.github.io/my-portfolio/assets/cv-weslley-en.pdf). If you prefer, checkout the Portuguese version [here](https://wescaetano.github.io/my-portfolio/assets/cv-weslley-pt.pdf)</samp>
 - ✉️ &nbsp;<samp>You can reach me at: weslleycaetanosoares@gmail.com</samp>
 
-
-
-
-  
-
-
-
-
-
 <div>
-    <h2><samp>Stats <samp></h2>
-    <a href="https://github.com/wescaetano?tab=repositories">
-    <img height="170em"  src="https://github-readme-stats.vercel.app/api?username=wescaetano&theme=gotham&show_icons=true">
-    <img  height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wescaetano&theme=gotham&show_icons=true">
+  <h2><samp>Stats</samp></h2>
+  <div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <img width="400" height="170" src="https://github-readme-stats.vercel.app/api?username=wescaetano&theme=gotham&show_icons=true" />
+    <img width="302" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wescaetano&theme=gotham&layout=compact" />
+  </div>
 </div>
+
 
 
 <div align="left">
