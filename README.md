@@ -27,7 +27,8 @@
 <div align="left">
   <h2><samp>Languages and Tools</samp></h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="Azure" title="Azure" width="40" height="30"  style="display: inline-block; margin-bottom: 5px;" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" title="AWS" width="40" height="30"  style="display: inline-block; margin-bottom: 5px;" />&nbsp;      
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" title="AWS" width="40" height="30"  style="display: inline-block; margin-bottom: 5px;" />&nbsp; 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git" width="40" height="30"  style="display: inline-block; margin-bottom: 5px;" />&nbsp;   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" title="C#" width="40" height="30"  style="display: inline-block; margin-bottom: 5px;" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" alt=".Net" title=".Net" width="50" height="40"  style="display: inline-block; margin-bottom: 5px;" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" title="Java" width="40" height="30"  style="display: inline-block; margin-bottom: 5px;" />&nbsp;
