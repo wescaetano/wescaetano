@@ -5,7 +5,7 @@
 
 <samp> I'm Weslley Caetano, a Brazilian 🇧🇷 who's passionate about solving problems and building creative solutions through technology. In my free time, I enjoy playing soccer with my friends and spending time with my family to relax and recharge.
 
-<samp>I'm currently studying Systems Analysis and Development, a journey that's been instrumental in sharpening my programming skills. Lately, my attention has been keenly focused on the world of backend development, where I've been diving deep into the .NET ecosystem with C#. I'm particularly passionate about mastering key concepts such as Clean Architecture, SOLID principles, and ACID properties, as well as strengthening my understanding of Observability and building robust RESTful APIs. This field captivates me with its logic and the opportunity to create the backbone of complex applications.
+<samp>I'm currently studying Systems Analysis and Development, a journey that's been instrumental in sharpening my programming skills. Lately, my attention has been keenly focused on the world of backend development, where I've been diving deep into the .NET ecosystem with C#. I'm particularly passionate about mastering key concepts such as Clean Architecture, SOLID principles, and ACID properties, as well as strengthening my understanding of Observability and building robust RESTful APIs.
 </samp>
 
 
@@ -19,8 +19,7 @@
   <h2><samp>Stats</samp></h2>
   <div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img width="265" height="164" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wescaetano&theme=github_dark" />
-    <img width="282" height="164" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wescaetano&theme=gotham&layout=compact" />
-    <!--<img width="280" height="164" src="https://github-readme-stats.vercel.app/api?username=wescaetano&theme=gotham&show_icons=true" /> -->
+    <img width="282" height="164" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=wescaetano&layout=compact&theme=gotham" />
   </div>
 </div>
 
