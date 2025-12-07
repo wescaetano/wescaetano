@@ -3,7 +3,7 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&color=071A2C&link=https://www.instagram.com/mupezzuol)](https://www.instagram.com/_weslleycaetano)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%23E4405F.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C&link=https://www.linkedin.com/in/mupezzuol/)](https://www.linkedin.com/in/weslleycsoares/)
 
-<samp> I'm Weslley Caetano, a Brazilian 🇧🇷 who's passionate about solving problems and building creative solutions through technology. In my free time, I enjoy playing soccer with my friends and spending time with my family to relax and recharge.
+<samp> I'm Weslley Caetano, a Brazilian 🇧🇷 who's passionate about solving problems and building creative solutions through technology. In my free time, I enjoy playing football with my friends and spending time with my family to relax and recharge.
 
 <samp>I'm currently studying Systems Analysis and Development, a journey that's been instrumental in sharpening my programming skills. Lately, my attention has been keenly focused on the world of backend development, where I've been diving deep into the .NET ecosystem with C#. I'm particularly passionate about mastering key concepts such as Clean Architecture, SOLID principles, and ACID properties, as well as strengthening my understanding of Observability and building robust RESTful APIs.
 </samp>
