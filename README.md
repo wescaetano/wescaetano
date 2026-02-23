@@ -19,6 +19,7 @@
   <h2><samp>Stats</samp></h2>
   <div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img width="265" height="164" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wescaetano&theme=github_dark" />
+    <img src="https://github-readme-stats-lake-eta-16.vercel.app/api?username=wescaetano&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" width="372" alt="stats graph"/>
     <img width="282" height="164" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=wescaetano&layout=compact&theme=gotham" />
   </div>
 </div>
