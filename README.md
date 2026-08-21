@@ -58,6 +58,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" alt="Redis" title="Redis" width="33" height="33"/>
      &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" title="Kubernets" width="33" height="33"/>
+     &nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dynatrace/dynatrace-original.svg" alt="Dynatrace" title="Dynatrace" width="33" height="33"/>
   </div>
 </div>
 <!--
