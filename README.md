@@ -52,6 +52,7 @@
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" title="C#" width="40" height="30"/></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" alt=".Net" title=".NET" width="50" height="40"/></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" alt="RabbitMQ" title="RabbitMQ" width="40" height="30"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/wescaetano/wescaetano/main/assets/kafka-white.svg" alt="Apache Kafka" title="Apache Kafka" width="40" height="30"/></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="Postgres" title="PostgreSQL" width="40" height="30"/></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="40" height="30"/></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="SqlServer" title="SqlServer" width="40" height="30"/></td>
