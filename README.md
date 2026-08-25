@@ -45,12 +45,14 @@
     &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" alt=".NET" title=".NET" width="33" height="33"/>
      &nbsp;
+    <!--
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" title="Java" width="33" height="33"/>
      &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring Boot" title="Spring Boot" width="33" height="33"/>
     &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" alt="Hibernate" title="Hibernate" width="33" height="33"/>
     &nbsp;
+    -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" alt="RabbitMQ" title="RabbitMQ" width="33" height="33"/>
     &nbsp;
     <img src="https://raw.githubusercontent.com/wescaetano/wescaetano/main/assets/kafka-white.svg" alt="Apache Kafka" title="Apache Kafka" width="33" height="33"/>
