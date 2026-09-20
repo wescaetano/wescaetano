@@ -10,7 +10,7 @@
 
 
 - 🤝 &nbsp;<samp>If you have any suggestions, questions, or insights to share, feel free to reach me out!</samp>
-- 📄 &nbsp;<samp>Take a look at my [resume](https://wescaetano.github.io/weslley-portfolio/assets/weslley-resume-software-eng.pdf). If you prefer, checkout the Portuguese version [here](https://wescaetano.github.io/weslley-portfolio/assets/curriculo-weslley-eng-software.pdf)</samp>
+- 📄 &nbsp;<samp>Take a look at my [resume](https://weslleycaetanodev.com.br/assets/weslley-caetano-backend-developer.pdf). If you prefer, checkout the Portuguese version [here](https://weslleycaetanodev.com.br/assets/weslley-caetano-desenvolvedor-backend.pdf)</samp>
 - ✉️ &nbsp;<samp>You can reach me at: weslleycaetanosoares@gmail.com</samp>
 - 🎓 &nbsp;<samp>Know a little more about my academic life [here](https://github.com/wescaetano/academic-life)</samp>
 
