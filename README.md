@@ -14,7 +14,7 @@
 - ✉️ &nbsp;<samp>You can reach me at: weslleycaetanosoares@gmail.com</samp>
 - 🎓 &nbsp;<samp>Know a little more about my academic life [here](https://github.com/wescaetano/academic-life)</samp>
 
-<div>
+<!-- <div>
   <h2><samp>Stats</samp></h2>
   <table>
     <tr>
@@ -23,6 +23,21 @@
       </td>
       <td>
         <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=wescaetano&layout=compact&theme=gotham" width="282"/>
+      </td>
+    </tr>
+  </table>
+</div> -->
+
+
+<div>
+  <h2><samp>Stats</samp></h2>
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats-lake-eta-16.vercel.app/api?username=wescaetano&theme=github_dark" width="371"/>
+      </td>
+      <td>
+        <img src="https://github-stats-extended.vercel.app/api/top-langs?username=wescaetano&layout=compact&theme=gotham" width="282"/>
       </td>
     </tr>
   </table>
